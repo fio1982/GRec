@@ -1,0 +1,763 @@
+1,A4SSDK Plugin SDK
+2,AChartEngine
+3,ACRA (Application Crash Reports for Android)
+4,ActionBar PullToRefresh
+5,ActionBarSherlock
+6,ActiveAndroid
+7,Ad Generation
+8,AdBuddiz
+9,AdFit Android SDK
+10,Adjust
+11,Adobe Air
+12,Adobe Air FRE
+13,Adobe Creative sdk
+14,Adobe FlashPlayer
+15,Adobe Mobile SDK
+16,Adobe PhoneGap
+17,Adobe XMP
+18,AdscendMedia Android SDK 
+19,Adtech
+20,Adtoapp AdColony
+21,AdWhirl Open Source SDK
+22,Adxmi Android SDK
+23,aFileChooser
+24,Afollestad Material Dialogs
+25,Agora Java API Reference for Android
+26,AHBottomNavigation
+27,Ahorn/Android-rss
+28,AigeStudio WheelPicker
+29,Akka Guice
+30,AlertDialogPro
+31,Algolia Search API For Android
+32,Alibaba Amap
+33,Alibaba APP Monitor SDK
+34,Alibaba Fastjson
+35,Alibaba MTL
+36,AliCloud Android HttpDNS
+37,Alipay
+38,Amazon Advertisement
+39,Amazon Auth SDK
+40,Amazon AWS
+41,Amazon Game Studios
+42,Amazon In Store App SDK
+43,Amazon In-App Purchasing
+44,Amplitude Android SDK
+45,Andengine Game Engine
+46,AndreiD TopSnackbar
+47,Android Appboy Kit
+48,Android Async
+49,Android Async HTTP Library
+50,Android AutofitTextView Library
+51,Android Beacon Library
+52,Android Beacon Library 2.14 SNAPSHOT API
+53,Android Bitmap Cache
+54,Android BitmapFun
+55,Android CountdownView
+56,Android Crop
+57,Android Device Names
+58,Android DirectoryChooser Library
+59,Android Exif Extended
+60,Android for Cars SDK
+61,Android GeoJSON Library
+62,Android Gesture Detectors Framework
+63,Android GIF Drawable Library
+64,Android Iconics Library
+65,Android Image Cropper
+66,Android In App Billing V3 Library
+67,Android Maps Extensions
+68,Android Material Intro Screen
+69,Android Multi Photo Selector
+70,Android Multipicker Library
+71,Android Networking
+72,Android NFC SDK
+73,Android Package management
+74,Android PList parser 
+75,Android Priority Job Queue
+76,Android RangeSeekBar Library
+77,Android Saripaar
+78,Android SDK UI
+79,Android Sliding Up Panel Library
+80,Android SQLiteAssetHelper
+81,Android Support v13
+82,android support v14
+83,Android support v17
+84,Android Support v4
+85,Android Support v7
+86,Android Support v8
+87,Android SwipeLayout Library
+88,Android Target Tooltip
+89,Android TimesSquare
+90,Android Viewpagerindicator Widget
+91,Android Vitamio
+92,Android.Apperhand
+93,AndroidAnimations Library
+94,AndroidAnnotations API
+95,AndroidImageSlider Library
+96,AndroidNative
+97,AndroidPhotoFilters
+98,Androidplot
+99,AndroidQuery
+100,AndroidSVG
+101,AndroidTagGroup
+102,ANE Flurry
+103,Ankushsachdeva Emojicon
+104,Antistatic Spinnerwheel
+105,ANTLR Runtime
+106,AnySDK Framework
+107,AnywhereSoftware JDKs
+108,Apache Ant Core
+109,Apache Common
+110,Apache Cordova
+111,Apache Harmony
+112,Apache Http
+113,Apache James Mail Enterprise Serve
+114,Apache Log4j
+115,Apache MINA Core SDK
+116,Apache Thrift
+117,Appbrain SDK
+118,Appcelerator
+119,Appeaser SublimePicker
+120,Application preferences plugin for Cordova 3+
+121,AppLovin SDK
+122,AppNext SDK
+123,Appnexus Android SDK
+124,Appodeal Ads
+125,AppsFlyer
+126,Apptentive Android SDK
+127,Appyet
+128,Ari Cheshin Floating Search View
+129,Aspsine SwipeToLoadLayout
+130,Astuetz Pager Sliding Tab Strip
+131,ATInternet Mobile Analytics Solutions For Android
+132,Audio Visualization View
+133,AurelienRibon Animation Library
+134,AutobahnAndroid
+135,Autonavi Gmap SDK
+136,Aviary photo editing SDK
+137,Avocarrot json2view
+138,Avocarrot VASTParser
+139,Avoscloud SDK Library
+140,AWS Java SDK For AWS Performance Insights
+141,Baidu SDK
+142,Barcode Scanner
+143,Bartoszlipinski RecyclerViewHeader Library
+144,Bartoszlipinski ViewPropertyObjectAnimator Library
+145,basic-http-client
+146,Bee7 - Android SDK statistics
+147,BelooS ChipsLayoutManager
+148,Bigkoo ConvenientBanner
+149,Bigkoo PickerView For Android
+150,Bignerdranch Expandable RecyclerView
+151,Bignerdranch RecyclerView MultiSelect
+152,BiznessApps
+153,BluelineLabs sdk logansquare
+154,Bolts Base Library
+155,Bouncy Castle
+156,Braintree's Android SDK
+157,Branch Android SDK
+158,Brightcove
+159,BugSense
+160,Bugsnag Android SDK
+161,Bugtags SDK
+162,butterknife UI Framework
+163,Bytedeco JavaCPP
+164,Bytedeco JavaCV
+165,Caldroid Calendar API
+166,Calldorado Mobile Advertising SDK for Android
+167,Campaigns Helpshift
+168,Castorflex SmoothProgressBar
+169,Castorflex VerticalViewPager
+170,Chad RecyclerLibrary
+171,ChartBoost
+172,Cheetah Mobile CleanMaster SDK
+173,Chrisjenx Calligraphy
+174,Chrisjenx Paralloid
+175,CircleImageView
+176,CircleIndicator
+177,CircleProgressBar
+178,CircularFloatingActionMenu Library
+179,CircularImageView
+180,CircularReveal
+181,CleverTap
+182,CloudTech Ads
+183,CloudTech Appwall
+184,cocos2DX
+185,Cocosw BottomSheet
+186,Cocosw UndoBar
+187,Code-troopers Android BetterPickers
+188,Color Picker Preference
+189,Com.Tozny.Crypto.Android
+190,CommonsWare MergeAdapter
+191,CommonsWare SackOfViewsAdapter
+192,comscore
+193,ComScore Analytics Android Integration
+194,Conduit App
+195,Connect-SDK-Android
+196,Cordova Hot Code Push Plugin
+197,Cordova Local-Notification Plugin
+198,Cordova Phonegap plugin
+199,Coremedia Content Cloud
+200,Corona Game Engine
+201,Couchbase Lite Android
+202,cranberrygame Cordova-plugin-ad-admob
+203,cranberrygame Phonegap-plugin-ad-admob
+204,Crashlytics
+205,Credit card scanning for Android apps
+206,Crittercism Agent For Android
+207,Cronet API
+208,Cross Platform Native Plugins
+209,CrossWalk API
+210,Crystal SDK
+211,Cuebiq SDK
+212,Cybergarage-UPnP
+213,CYou SDK
+214,Daasuu Kits
+215,DashClock API
+216,DATE4J
+217,Db4o Object Database Framework
+218,Dean Wild FlowTextView
+219,Dean Wild MaterialShowcaseView
+220,Delight-im AdvancedWebView
+221,DeployGate Android SDK
+222,Digits
+223,Discrete SeekBar
+224,Dnsjava
+225,Dom4j
+226,Doodle Mobile Game Center
+227,Drakeet MaterialDialog Library
+228,DroidNinja Android-FilePicker
+229,DroidParts
+230,Dropbox Java SDK
+231,Dtdparser
+232,DU Ad Platform SDK
+233,DynamicGrid
+234,Easy Android Animations
+235,Easy Movie Texture SDK
+236,Eclipse Jetty
+237,Eclipse Paho Client Mqttv3
+238,ECMAScript
+239,Edmodo
+240,Emoji Java
+241,EPublib
+242,Esoteric Software 3D
+243,Espian ShowcaseView
+244,Etsy AndroidStaggeredGrid Library
+245,Evernote Android Job
+246,Everyplay
+247,Evgeny Shishkin Android-AppMsg
+248,Evgeny Shishkin Android-ProgressFragment
+249,Evgeny Shishkin Android-RobotoTextView
+250,Exomedia
+251,ExoPlayer
+252,ExoPlayer 2
+253,ExpandableLayout
+254,Fabric
+255,Facebook SDK
+256,FastAdapter Library
+257,Fasterxml
+258,FileDownloader
+259,Firebase
+260,Flavien Laurent DatetimePicker
+261,Flexbox Layout
+262,FlexJson Library
+263,Flipboard BottomSheet SDK
+264,FloatingGroupExpandableListView Library
+265,FlowLayouts
+266,Flurry SDK
+267,FlycoDialog
+268,FlycoTabLayout
+269,Fmod
+270,Forthline Cling
+271,Frankiesardo Icepick
+272,Franmontiel Persistent Cookie Jar
+273,Freemarker
+274,Ftp4j Library
+275,Full Screen ANE for Adobe AIR
+276,Fyber
+277,Fyber(SponsorPay)
+278,GameAnalytics Android SDK
+279,GestureImageView polites.com
+280,Getbase Android
+281,Gigya's Socialize API
+282,Glide
+283,Glispa Connect (formerly Avocarrot) SDK
+284,Glympse API library for Android
+285,GNU Clisp
+286,GNU KAWA
+287,GNU Qexo
+288,GNU Xmlat
+289,Goodbarber
+290,Google Admob
+291,Google Ads
+292,Google Analytics
+293,Google Android Net
+294,Google APDFViewer
+295,Google Appinventor
+296,Google Core Libraries (3rd Party)
+297,Google Core Libraries for Java 6+
+298,Google FlatBuffers Java API
+299,Google GCM
+300,Google GData
+301,Google Gson
+302,Google Internationalization
+303,Google Maps Utils
+304,Google Mobile Services
+305,Google Play Games Services plugin
+306,Google Play SDK
+307,Google Roboguice
+308,Google Tag Manager
+309,Google VR SDK for Unity
+310,Google's WebRTC Android Library
+311,Gradle HockeyApp Plugin
+312,Green Robot EventBus
+313,Green Robot GreenDao
+314,GreenDroid
+315,Guice
+316,H6ah4i Android Advanced RecyclerView
+317,H6ah4i Android Material Shadow 9-Patch
+318,H6ah4i Android VerticalSeekBar
+319,hamcrest
+320,HelloCharts Library For Android
+321,Heyzap
+322,Heyzap Mediation SDK
+323,HoloColorPicker
+324,HorizontalListView
+325,Hotline Android SDK
+326,HP SDK for Android
+327,htmlCleaner
+328,HttpClient Android repackage buildscript
+329,httpclientandroidlib
+330,Huawei Android SDK
+331,HyprMX Ad SDK
+332,I2P Android Client Library
+333,iAd Plugin Pro
+334,Ideaworks3D MarmaladeSDK
+335,igaworks
+336,igexin Getuiext
+337,igexin SDK
+338,IJKPlayer
+339,Image Chooser library
+340,ImagePicker Android
+341,ImageViewZoom
+342,Immersion's Haptic SDK For Android
+343,Immersive Mode for Android
+344,Ini4J
+345,Ini4J Library
+346,InkPageIndicator
+347,InLocoMedia Android SDK
+348,Inmobi
+349,Inneractive
+350,Instabug Android SDK
+351,Integral Ad Science APIs
+352,Intercom Android Composer
+353,Intercom SDK
+354,International Components for Unicode
+355,IronSource
+356,ITextPdf Kit
+357,J256
+358,Jackson Json-processor
+359,JakeWharton Disk LRU Cache
+360,JakeWharton Process Phoenix
+361,JakeWharton RxBinding
+362,JakeWharton RxRelay
+363,Jasonkostempski
+364,JAudiotagger
+365,Java CIFS Client Library API
+366,Java Excel API
+367,Java Native Lua
+368,Java Secure Channel
+369,JavaBeans Activation Framework (JAF)
+370,JavaX Annotation API
+371,JavaX jmDNS library
+372,JavaX Mail API
+373,JavaX Servlet API
+374,Jaxen
+375,JazzyViewPager
+376,JBoss Javassist
+377,JCodec For Android
+378,JDBM
+379,Jdeferred
+380,Jiguang SDKs
+381,jjoe64 GraphView
+382,Joanzapata Iconify
+383,Joanzapata PDFView
+384,Joda Convert
+385,Joda Time Android Library
+386,Jpardogo GoogleProgressBar
+387,Jpush
+388,JSON In Java
+389,JSON Small and Fast Parser
+390,JSON Web Token SDK
+391,Jsonpath
+392,JsonPath API
+393,JSONWebToken Impl
+394,Jsoup
+395,JTS Topology Suite
+396,Jude EasyRecyclerView
+397,Jumio
+398,Junit
+399,JXMPP SDK
+400,Kankan Wheel View
+401,Kaopiz KProgressHUD
+402,Karumi Dexter
+403,KeepSafe ReLinker
+404,KeepSafe TapTargetView
+405,KenBurnsView
+406,Keyboard Surfer
+407,KIDOZ SDK
+408,Kids Web Services Mobile SDK For Android
+409,KIIP Mobile Ads
+410,KObjects
+411,Kochava Android SDK
+412,Kotlin Collection
+413,Kotlin IO
+414,Kotlin Reflect
+415,Kount's SDK for Android
+416,ksoap2
+417,Kxml2
+418,Kyleduo SwitchButton
+419,Laravel Persian Validation
+420,Larva Labs SVG-Android
+421,Layer SDK
+422,Leadbolt Ads SDK
+423,Leadbolt SDK
+424,LeakCanary Android
+425,Leolin ShortcutBadger
+426,libGDX
+427,LibVLC
+428,Lightweight Stream API
+429,LINE SDK starter
+430,LinkedIn API
+431,ListViewAnimations
+432,LitePal Android library
+433,litesuits android-lite-orm
+434,Localytics - Mobile App Marketing Analytics
+435,Logback
+436,Lombok Plugin
+437,Lootsie Aerserv
+438,Lottie Xamarin or MvvmCross
+439,lsjwzh RecyclerViewPager Library
+440,Lucasr TwoWayView
+441,MagicCamera
+442,MagicIndicator
+443,mahua Afinal
+444,Makovkastar FloatingActionButton
+445,Malinskiy SuperRecyclerView
+446,Mapbox Maps SDK For Android
+447,Mapsforge API
+448,Mariotti Card Library
+449,Mariotti ChangelogLib
+450,Markdown4j
+451,Material EditText Library
+452,Material Range Bar
+453,Material Ripple Layout
+454,Material Spinner Library
+455,MaterialDateTimePicker
+456,MaterialDraer Library
+457,MaterialIntroView
+458,Materialish Progress
+459,Materialize Library
+460,MaterialLoadingProgressBar
+461,MaterialNavigationDrawer
+462,MaterialProgressBar
+463,MaterialSearchView
+464,MaterialTabs
+465,MCGoliath SDK
+466,Mediabrix Android SDK
+467,Meizu Push Internal
+468,Meizu Push SDK
+469,Messagepack
+470,Metadata Extractor 
+471,Metalev Multi Touch
+472,Microsoft MapPoint
+473,Mikhaellopez CircularImageView
+474,Mikhaellopez CircularProgressBar
+475,Milkman plugins
+476,Millennial Media
+477,Minidns
+478,Mixpanel User Analytics
+479,Moat Analytics
+480,Mob SMS SDK
+481,Mob Toolkit
+482,Mobeta ListView
+483,mobfox
+484,MobFox Android SDK
+485,MobileAppTracking Android SDK
+486,Mobvista SDK
+487,MoEngage SDK
+488,MOGAanywhere
+489,Mono for Android
+490,MoPub
+491,Moxy MVP library for Android
+492,Mozilla Rhino
+493,Mozilla Universal Detector
+494,Mp4parser
+495,Mparticle Android SDK
+496,myTarget Advertising Platform
+497,Nanigans - SafeDK
+498,NativeX Android SDK
+499,navasmdc MaterialDesignLibrary
+500,NetCipher: Secured Networking for Android
+501,Netease Nim Android SDK
+502,Netty All In One
+503,Netty Handler
+504,NetworkBench NewLens Android Agent SDK
+505,NewAndroidTwitter
+506,newrelic
+507,Nexage SourceKit-MRAID For Android
+508,Nielsen Android SDK
+509,Nine Old Androids
+510,Nokia In-App Payment
+511,NoNonsense FilePicker Library
+512,Nordicsemi DFU Library
+513,Nordicsemi NRF Logger API
+514,Nostra13 Image Loading
+515,Nostra13 Universal Image Loader
+516,Noveo Android Logger
+517,NPM Synconset Imagepicker
+518,NTAF Maven PlugIn
+519,Nuance Speech Kit Library
+520,NumberPickerView
+521,Objenesis
+522,OCTO Robospice
+523,OkHttp okio Framework
+524,OKHttp3.0
+525,OnBarCode SDK
+526,One Key Share
+527,ONE store IAP SDK
+528,oneAudience SDK
+529,OneSignal Android SDK
+530,Onevcat UniWebView
+531,Ooyala SDK
+532,Opencsv
+533,OpenCV
+534,OpenStreetMap-Tools
+535,OPFIab Library for Android
+536,Orhanobut DialogPlus
+537,Orhanobut Hawk 2.0
+538,Orhanobut Logger 
+539,Outline Games
+540,Overscroll Bouncy Android
+541,PaperDB:Fast NoSQL Data Storage For Android
+542,Parse Android
+543,PartyTrack for Android
+544,PayPal
+545,PDFTron: PDF SDK
+546,PhoneGap
+547,PhoneGap/Cordova Social Sharing plugin
+548,PhotoDraweeView
+549,PhotoView
+550,Picasso 2.1
+551,PingStart Android Ads SDK
+552,Pinyin4j
+553,Pixplicity EasyPrefs
+554,Plattysoft Leonids
+555,PLDroidPlayer
+556,Pltly Hianalytics
+557,plusCubed Insets Dispatcher
+558,PocketAds
+559,Pollfish
+560,PrettyTime
+561,Progress Telerik AppBuilder Plugin
+562,PSDev LicensesDialog
+563,PullToRefresh
+564,Pushwoosh SDK
+565,Qiniu Android SDK Library
+566,Qoppa Java PDF Library
+567,Qt Everywhere Qt5
+568,QuadFlask Color Picker
+569,Quantcast Measure For Android
+570,Rajawali Live Wallpaper Template
+571,Realm DB
+572,Recycler Bubble
+573,RecyclerRefreshLayout
+574,RecyclerView FastScroll
+575,Retrofit Restful Library
+576,Revmob
+577,Rey Material
+578,RFM Android SDK
+579,Riskware/SneakFont!Android
+580,Roboguice
+581,RockerHieu Emojicon
+582,ROME
+583,roughike BottomBar
+584,RoundCornerProgressBar
+585,RoundedImageView
+586,RxJava
+587,Scribe Java Lib
+588,SeattleClouds SDK
+589,SecondFury Native Toolkit
+590,SecurePreferences
+591,SeekArc Library
+592,Segment Android Analytics
+593,Selectable Rounded Image View
+594,SF JSON Library
+595,Signpost Oauth
+596,SilverMob SDK
+597,Simonvt Android CalendarView
+598,Simonvt Android DatePicker
+599,Simonvt Android NumberPicker
+600,Simonvt MenuDrawer
+601,Simple Facebook SDK
+602,Simple Framework Simple XML
+603,Simple Rating Bar
+604,SimpleCropView
+605,Sina SSO
+606,Skplanet SDK
+607,SLF4J API Module
+608,SlidingMenu
+609,Smaato
+610,Smack
+611,Smack Extensions
+612,Smart AdServer mobile SDK 
+613,Smart Location Library
+614,SmartFoxServer
+615,SmartTabLayout
+616,Snackbar
+617,SnakeYAML
+618,Socket IO Client
+619,SOOMLA Framework for Game
+620,SourceForge Cardme VCard Library
+621,SourceForge ZBar
+622,Splunk MINT
+623,Spoledge AAC Decoder
+624,Spongy Castle
+625,Sport Trackers Connector
+626,Spring Framework
+627,SpringSource Org Apache Oro
+628,SQLCipher
+629,SQLite Plugins
+630,Square Dagger
+631,Square Haha
+632,Square JavaPoet
+633,Square JavaWriter
+634,Square Moshi
+635,Square OkHttp
+636,Square Otto
+637,Square Picasso 2.7
+638,Square Pollexor
+639,Square Seismic
+640,Square Tape
+641,Square Wire
+642,StartApp
+643,StatisticsManager
+644,Stericson RootTools
+645,Sticky Headers RecyclerView
+646,StickyGridHeaders
+647,Stripe Android
+648,StrongSwan VPN Client for Android
+649,SubsamplingScaleImageView
+650,Sufficientlysecure Donations
+651,Sufficientlysecure HTML TextView
+652,SUN Activation
+653,SUN JNA
+654,Sun Mail
+655,SuperSLiM Library
+656,Supersonic Android SDK
+657,Supersonic MediationSDK(Abandoned)
+658,SweetAlertDialog Library
+659,Swelen Android SDK
+660,SwipeBackLayout
+661,SwipeMenuListView
+662,SwipyRefreshLayout Library
+663,Swrve Android SDK
+664,TagSoup
+665,Taobao SDK
+666,TapDaq Android SDK
+667,Tapjoy
+668,Tappx
+669,TastyToast For Android
+670,Tealium Android Repository
+671,TedPermission
+672,Telegram APIs
+673,Tencent QQ Theme
+674,Tencent SDKs
+675,TendDaTa
+676,Testin Analysis for Android
+677,The Jboss Netty Project
+678,ThinDownloadManager
+679,ThoughtWorks XStream
+680,ThreeTen Backport
+681,Timroes AXMLRPC
+682,Timroes EnhancedListView
+683,Titanium ImageFactory Module
+684,Titanium Map Module
+685,Tkrefreshlayout
+686,TnkAd SDK
+687,Todd Davies ProgressWheel
+688,TokenAutoComplete
+689,ToxicBakery ViewPagerTransforms
+690,Transitions Everywhere (AndroidX Transitions Library.)
+691,Tune Marketing Console SDK
+692,Tusdk for Android
+693,Twitter
+694,Twitter4J
+695,Twotoasters Clusterkraf
+696,Twotoasters JazzyListView
+697,Twotoasters SectionCursorAdapter
+698,Tyrantgit View Design ExplosionField
+699,UC WebView SDK
+700,UltimateRecyclerView
+701,Umeng Analytics
+702,Umeng Common
+703,Umeng Message Push
+704,Umeng Share for Facebook
+705,Umeng Share for QQ
+706,Umeng Socialize
+707,Umeng U-push
+708,Umeng U-push (Old version called agoo)
+709,Unionpay SDKs
+710,Unity3D
+711,Unity3d Advertisement
+712,Unity3D Android notification plugin
+713,Unity3d plugins
+714,Universal Image Loader
+715,UpdateChecker Library
+716,Urban Airship
+717,UserVoice Android SDK
+718,ut mini push sdk
+719,UTNotifications
+720,Varunest SparkButton
+721,Vector Compat Library
+722,Verizon Ads SDK
+723,VerizonMedia Ad Platforms
+724,Victor Loading
+725,Videocache
+726,Vieux OpenUDID
+727,VK API Library
+728,VMAX Unity Plugin for Android
+729,Volley HTTP library
+730,Vpon SDK
+731,Vudroid PDF Reader
+732,Vungle's Android SDK
+733,WarDroid Color Panel View
+734,Wasabeef Blurry
+735,Wasabeef Glide Transformations
+736,Wasabeef Picasso Transformations
+737,Wasabeef Recyclerview Animators
+738,WebIntent Android Plugin
+739,Wefika Layout FlowLayout
+740,Weibo
+741,Wise Shark Studio SDK
+742,Xiaomi GameCenter SDK
+743,Xiaomi Mi Account SDK
+744,Xiaomi SDK MiPush
+745,Xiaomi UI
+746,XIGNCODE3
+747,XML Pull
+748,Xunfei (iflytek) SDK
+749,XUtils
+750,XZ For Java
+751,Yahoo Search SDK
+752,Yalantis UCrop
+753,Yandex Metrica Plugin
+754,Yandex Mobile Ads
+755,Yandex Runtime
+756,Youth Banner for Android ImageView
+757,YouTube Android Player API
+758,YoYoGames GameMaker
+759,Ypresto Android Transcoder
+760,Zendesk APIs
+761,Zendesk Chat SDK for Android
+762,Zip4j
+763,ZXing ('Zebra Crossing')
