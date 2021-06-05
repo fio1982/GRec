@@ -8,18 +8,18 @@ Each pair of randomly generated training set and testing set is stored in sub
 folder of "Data". Simply start Python in COMMAND LINE mode, then use the following
 statement (one line in the COMMAND Prompt window) to execute GRec on one dataset:
 
----------------------------------------------------------------------------------
+```
 python main.py --dataset qiaoji_5_30 --alg_type ngcf --regs [1e-5] --lr 0.0001 
 --save_flag 1 --pretrain 0 --batch_size 4096 --epoch 800 --verbose 1
----------------------------------------------------------------------------------
+```
 
 Then, you may receive the results as follows:
 
----------------------------------------------------------------------------------
+```
 Best Iter=[79]@[7756.1]	recall=[0.59502	0.73338], precision=[0.58724	0.36238],
 map=[0.84104	0.78629], cov=[0.65841	0.75393], f1=[0.59070	0.48482]
 Benchmarking time consuming: average 8.1111s per epoch
----------------------------------------------------------------------------------
+```
 
 For the subfolder name: 
 	"***_5_30" means for each mobile app, 5 randomly selected TPLs were removed 
