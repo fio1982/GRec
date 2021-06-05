@@ -55,13 +55,8 @@ Name		|	Type	|	Description
 main.py		|	File	|	main python file of GRec
 Models.py	|	File	|	NGCF modules used by GRec
 utility		|	Folder	|	tools and essential libraries used by GRec
-Data		|	Folder	|	Training set and testing set, one pair in each sub folder.
-			|			|	Only part of the used dataset is provided due to the size 
-			|			|	limitation of the uploaded file.
-Output		|	Folder	|	The TPL recommendation results. By comparing the TPLs in the
-			|			|	testing set with the recommended ones, the effectiveness of
-			|			|	GRec can be evaluated. Please note, only part of the results
-			|			|	are provided due to the size limitation.
+Data		|	Folder	|	Training set and testing set, one pair in each sub folder. Only part of the used dataset is provided due to the size limitation of the uploaded file.
+Output		|	Folder	|	The TPL recommendation results. By comparing the TPLs in the testing set with the recommended ones, the effectiveness of GRec can be evaluated. Please note, only part of the results are provided due to the size limitation.
 OriData		|	Folder	|	The original public MALib dataset proposed in [9] (TSE,2020)
 
 
@@ -72,22 +67,11 @@ All essential parameters of GRec can be set via file "utility/parser.py". Specif
 
  Line	|	Description
 ---|---
-	8	|	Setup dataset path, only the parent folder "Data" is needed, GRec can find
-		|	out each sub folder through parameter "--dataset" in Python commands.
-	20	|	Setup the default maximum epoch of each experiment run, it will be 
-		|	overwritten if the corresponding parameter is set through command line.
-	25	|	Setup the total number of GNN layers and the size of each layer. For 
-		|	example, a value "[128,128,128,128]" means GRec has 4 GNN layers in total
-		|	and each layer has the same layer size of 128 nodes, i.e., the size of each 
-		|	latent factor vector is 128.
-	46 	|	Setup how much information will be randomly discarded during the training, 
-		|	the number of elements is equal to the size of parameter array in line 25, 
-		|	and 0.1 means 10% of information will be discarded.
-	49	|	Specify the size of each recommendation list. An array "[5,10]" means 
-		|	the first TPL recommendation list has 5 TPLs and the second recommendation
-		|	list has 10 TPLs. This way, we can evaluate GRec's performance with different
-		|	\textit{nr} in one batch.
-	others	|	Other paramenter can also be found in this file. Please refer to the 
-		|	comments of each parameter in this file. 
+	8	|	Setup dataset path, only the parent folder "Data" is needed, GRec can find out each sub folder through parameter "--dataset" in Python commands.
+	20	|	Setup the default maximum epoch of each experiment run, it will be  overwritten if the corresponding parameter is set through command line.
+	25	|	Setup the total number of GNN layers and the size of each layer. For example, a value "[128,128,128,128]" means GRec has 4 GNN layers in total and each layer has the same layer size of 128 nodes, i.e., the size of each latent factor vector is 128.
+	46 	|	Setup how much information will be randomly discarded during the training, the number of elements is equal to the size of parameter array in line 25, and 0.1 means 10% of information will be discarded.
+	49	|	Specify the size of each recommendation list. An array "[5,10]" means the first TPL recommendation list has 5 TPLs and the second recommendation list has 10 TPLs. This way, we can evaluate GRec's performance with different \textit{nr} in one batch.
+	others	|	Other paramenter can also be found in this file. Please refer to the comments of each parameter in this file. 
 				
 				
