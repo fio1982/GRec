@@ -48,10 +48,10 @@ Updated version of each package is acceptable. A GPU accelerator NVIDIA Tesla P1
 12GB is needed when running the experiments. 
 
 
-## Description of Folders and Files ###
+## Description of Folders and Files 
 
 Name		|	Type	|	Description
---------------------------------------------------------------------------------------------
+---|---|---
 main.py		|	File	|	main python file of GRec
 Models.py	|	File	|	NGCF modules used by GRec
 utility		|	Folder	|	tools and essential libraries used by GRec
@@ -66,12 +66,12 @@ OriData		|	Folder	|	The original public MALib dataset proposed in [9] (TSE,2020)
 
 
 
-## Essential Parameter Setup for GRec ###
+## Essential Parameter Setup for GRec 
 
 All essential parameters of GRec can be set via file "utility/parser.py". Specifically:
 
  Line	|	Description
---------------------------------------------------------------------------------------------
+---|---
 	8	|	Setup dataset path, only the parent folder "Data" is needed, GRec can find
 		|	out each sub folder through parameter "--dataset" in Python commands.
 	20	|	Setup the default maximum epoch of each experiment run, it will be 
