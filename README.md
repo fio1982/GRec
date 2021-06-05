@@ -55,9 +55,9 @@ Name |Type |	Description
 main.py		|	File	|	main python file of GRec
 Models.py	|	File	|	NGCF modules used by GRec
 utility		|	Folder	|	tools and essential libraries used by GRec
-Data		|	Folder	|	Training set and testing set, one pair in each sub folder. Only part of the used dataset is provided due to the size limitation of the uploaded file.
-Output		|	Folder	|	The TPL recommendation results. By comparing the TPLs in the testing set with the recommended ones, the effectiveness of GRec can be evaluated. Please note, only part of the results are provided due to the size limitation.
-OriData		|	Folder	|	The original public MALib dataset proposed in [9] (TSE,2020)
+Training Dataset		|	Folder	|	Training set and testing set, one pair in each sub folder. Only part of the used dataset is provided due to the size limitation of the uploaded file.
+Output		|	File	|	A sample of the TPL recommendation results. By comparing the TPLs in the testing set with the recommended ones, the effectiveness of GRec can be evaluated. Please note, only part of the results are provided due to the size limitation.
+Original Dataset |	Folder	|	The original public MALib dataset proposed in [9] (TSE,2020)
 
 
 
