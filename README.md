@@ -24,12 +24,13 @@ Benchmarking time consuming: average 8.1111s per epoch
 For the subfolder name: 
 
 ```
-"***_5_30" means for each mobile app, 5 randomly selected TPLs were removed to form the testing set and the remaining TPLs formed the training set. Besides, this pair of dataset is used for the 30th experiment run.
+"***_5_30" means for each mobile app, 5 randomly selected TPLs were removed to form the testing set and the remaining TPLs formed the training set. 
+Besides, this pair of dataset is used for the 30th experiment run.
 ```
 
 For the parameters:
 
-````
+```
 dataset: specifies the corresponding testing set and training set. 
 epoch: maximum epochs during the training process. GRec may stop early if it cannot further improve the performance in 5 consecutive epochs.
 ```
