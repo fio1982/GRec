@@ -22,16 +22,11 @@ Benchmarking time consuming: average 8.1111s per epoch
 ```
 
 For the subfolder name: 
-	"***_5_30" means for each mobile app, 5 randomly selected TPLs were removed 
-	to form the testing set and the remaining TPLs formed the training set. 
-	Besides, this pair of dataset is used for the 30th experiment run.
+	>"***_5_30" means for each mobile app, 5 randomly selected TPLs were removed to form the testing set and the remaining TPLs formed the training set. Besides, this pair of dataset is used for the 30th experiment run.
 
 For the parameters:
-	-> dataset: specifies the corresponding testing set and training set
-	-> epoch: maximum epochs during the training process. GRec may stop early if 
-	it cannot further improve the performance in 5 consecutive epochs.
-
-
+	> dataset: specifies the corresponding testing set and training set. 
+	> epoch: maximum epochs during the training process. GRec may stop early if it cannot further improve the performance in 5 consecutive epochs.
 
 
 ## Environment Settup ###
@@ -74,4 +69,7 @@ Line|Description
 49	|	Specify the size of each recommendation list. An array "[5,10]" means the first TPL recommendation list has 5 TPLs and the second recommendation list has 10 TPLs. This way, we can evaluate GRec's performance with different \textit{nr} in one batch.
 others	|	Other paramenter can also be found in this file. Please refer to the comments of each parameter in this file. 
 				
-				
+## Citation
+It would be very much appreciated if you cite the following papers:
+
+>Li, B., He, Q., Chen, F., Xia, X., Li, L., Grundy, J.,and Yang, Y., 2021. Embedding App-Library Graph for Neural Third Party Library Recommendation. In proceddings of FSE 2021. DOI:10.1145/3468264.3468552
